@@ -1,7 +1,7 @@
 <h2 >Hi 👋, I'm Dominic</h2>
 <h4>A passionate mobile developer from Italy.</h4>
 <h5>🚀 I love releasing new projects with the latest technologies and continuously improving my skills</h5>
-<p align="left"> <a href="https://twitter.com/_dominic_schmid" target="blank"><img src="https://img.shields.io/twitter/follow/_dominic_schmid?logo=twitter&style=for-the-badge" alt="_dominic_schmid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/smddmnc" target="blank"><img src="https://img.shields.io/twitter/follow/smddmnc?logo=twitter&style=for-the-badge" alt="smddmnc" /></a> </p>
 
 - 🔭 I’m currently working on [Jagdstatistik](https://github.com/dominic-schmid/abschuss_statistik/)
 
